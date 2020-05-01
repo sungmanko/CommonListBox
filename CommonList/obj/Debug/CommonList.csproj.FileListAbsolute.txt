@@ -1,0 +1,9 @@
+D:\Sample\CommonList\bin\Debug\CommonList.exe.config
+D:\Sample\CommonList\bin\Debug\CommonList.exe
+D:\Sample\CommonList\bin\Debug\CommonList.pdb
+D:\Sample\CommonList\obj\Debug\CommonList.Form1.resources
+D:\Sample\CommonList\obj\Debug\CommonList.Form2.resources
+D:\Sample\CommonList\obj\Debug\CommonList.Properties.Resources.resources
+D:\Sample\CommonList\obj\Debug\CommonList.csproj.GenerateResource.cache
+D:\Sample\CommonList\obj\Debug\CommonList.exe
+D:\Sample\CommonList\obj\Debug\CommonList.pdb
